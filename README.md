@@ -73,7 +73,3 @@ Expected output files include:
 - college_feast_dessert_solution.csv
 - subject_dinner_solution_single_stage.csv
 - subject_dinner_solution_two_stage.csv
-
-## note
-
-Some input and output files may contain event-specific or personal information, so the repository should be kept private if those files are included.
