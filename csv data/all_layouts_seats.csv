@@ -1,0 +1,223 @@
+﻿layout,seat_id,excel_cell,excel_row,excel_col,table_id,section_id,table_shape,orientation,side,position,is_high_table,high_table_zone,is_master_seat,is_vip_seat,source_file
+hall_110,E8,E8,8,5,HT,HIGH_TABLE,rectangle,horizontal,A,1,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F8,F8,8,6,HT,HIGH_TABLE,rectangle,horizontal,A,2,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,G8,G8,8,7,HT,HIGH_TABLE,rectangle,horizontal,A,3,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H8,H8,8,8,HT,HIGH_TABLE,rectangle,horizontal,A,4,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,I8,I8,8,9,HT,HIGH_TABLE,rectangle,horizontal,A,5,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K8,K8,8,11,HT,HIGH_TABLE,rectangle,horizontal,A,6,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,L8,L8,8,12,HT,HIGH_TABLE,rectangle,horizontal,A,7,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M8,M8,8,13,HT,HIGH_TABLE,rectangle,horizontal,A,8,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,N8,N8,8,14,HT,HIGH_TABLE,rectangle,horizontal,A,9,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,E12,E12,12,5,HT,HIGH_TABLE,rectangle,horizontal,B,1,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F12,F12,12,6,HT,HIGH_TABLE,rectangle,horizontal,B,2,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,G12,G12,12,7,HT,HIGH_TABLE,rectangle,horizontal,B,3,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H12,H12,12,8,HT,HIGH_TABLE,rectangle,horizontal,B,4,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,I12,I12,12,9,HT,HIGH_TABLE,rectangle,horizontal,B,5,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,J12,J12,12,10,HT,HIGH_TABLE,rectangle,horizontal,B,6,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K12,K12,12,11,HT,HIGH_TABLE,rectangle,horizontal,B,7,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,L12,L12,12,12,HT,HIGH_TABLE,rectangle,horizontal,B,8,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M12,M12,12,13,HT,HIGH_TABLE,rectangle,horizontal,B,9,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,N12,N12,12,14,HT,HIGH_TABLE,rectangle,horizontal,B,10,1,MAIN_SIDE,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O10,O10,10,15,HT,HIGH_TABLE,rectangle,horizontal,END_END,1,1,END,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D10,D10,10,4,HT,HIGH_TABLE,rectangle,horizontal,START_END,1,1,END,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D35,D35,35,4,LL_TOP,LEFT_LOWER_TOP,rectangle,vertical,A,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D37,D37,37,4,LL_TOP,LEFT_LOWER_TOP,rectangle,vertical,A,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D39,D39,39,4,LL_TOP,LEFT_LOWER_TOP,rectangle,vertical,A,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D41,D41,41,4,LL_TOP,LEFT_LOWER_TOP,rectangle,vertical,A,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D43,D43,43,4,LL_TOP,LEFT_LOWER_TOP,rectangle,vertical,A,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D45,D45,45,4,LL_BOTTOM,LEFT_LOWER_BOTTOM,rectangle,vertical,A,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D47,D47,47,4,LL_BOTTOM,LEFT_LOWER_BOTTOM,rectangle,vertical,A,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D49,D49,49,4,LL_BOTTOM,LEFT_LOWER_BOTTOM,rectangle,vertical,A,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D51,D51,51,4,LL_BOTTOM,LEFT_LOWER_BOTTOM,rectangle,vertical,A,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D53,D53,53,4,LL_BOTTOM,LEFT_LOWER_BOTTOM,rectangle,vertical,A,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F35,F35,35,6,LL_TOP,LEFT_LOWER_TOP,rectangle,vertical,B,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F37,F37,37,6,LL_TOP,LEFT_LOWER_TOP,rectangle,vertical,B,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F39,F39,39,6,LL_TOP,LEFT_LOWER_TOP,rectangle,vertical,B,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F41,F41,41,6,LL_TOP,LEFT_LOWER_TOP,rectangle,vertical,B,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F43,F43,43,6,LL_TOP,LEFT_LOWER_TOP,rectangle,vertical,B,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F45,F45,45,6,LL_BOTTOM,LEFT_LOWER_BOTTOM,rectangle,vertical,B,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F47,F47,47,6,LL_BOTTOM,LEFT_LOWER_BOTTOM,rectangle,vertical,B,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F49,F49,49,6,LL_BOTTOM,LEFT_LOWER_BOTTOM,rectangle,vertical,B,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F51,F51,51,6,LL_BOTTOM,LEFT_LOWER_BOTTOM,rectangle,vertical,B,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F53,F53,53,6,LL_BOTTOM,LEFT_LOWER_BOTTOM,rectangle,vertical,B,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D15,D15,15,4,LU,LEFT_UPPER,rectangle,vertical,A,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D17,D17,17,4,LU,LEFT_UPPER,rectangle,vertical,A,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D21,D21,21,4,LU,LEFT_UPPER,rectangle,vertical,A,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D23,D23,23,4,LU,LEFT_UPPER,rectangle,vertical,A,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D25,D25,25,4,LU,LEFT_UPPER,rectangle,vertical,A,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D27,D27,27,4,LU,LEFT_UPPER,rectangle,vertical,A,6,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D29,D29,29,4,LU,LEFT_UPPER,rectangle,vertical,A,7,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,D31,D31,31,4,LU,LEFT_UPPER,rectangle,vertical,A,8,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F15,F15,15,6,LU,LEFT_UPPER,rectangle,vertical,B,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F17,F17,17,6,LU,LEFT_UPPER,rectangle,vertical,B,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F21,F21,21,6,LU,LEFT_UPPER,rectangle,vertical,B,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F23,F23,23,6,LU,LEFT_UPPER,rectangle,vertical,B,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F25,F25,25,6,LU,LEFT_UPPER,rectangle,vertical,B,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F27,F27,27,6,LU,LEFT_UPPER,rectangle,vertical,B,6,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F29,F29,29,6,LU,LEFT_UPPER,rectangle,vertical,B,7,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,F31,F31,31,6,LU,LEFT_UPPER,rectangle,vertical,B,8,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H29,H29,29,8,ML,MIDDLE_LOWER,rectangle,vertical,A,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H31,H31,31,8,ML,MIDDLE_LOWER,rectangle,vertical,A,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H33,H33,33,8,ML,MIDDLE_LOWER,rectangle,vertical,A,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H35,H35,35,8,ML,MIDDLE_LOWER,rectangle,vertical,A,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H37,H37,37,8,ML,MIDDLE_LOWER,rectangle,vertical,A,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H39,H39,39,8,ML,MIDDLE_LOWER,rectangle,vertical,A,6,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K29,K29,29,11,ML,MIDDLE_LOWER,rectangle,vertical,B,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K31,K31,31,11,ML,MIDDLE_LOWER,rectangle,vertical,B,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K33,K33,33,11,ML,MIDDLE_LOWER,rectangle,vertical,B,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K35,K35,35,11,ML,MIDDLE_LOWER,rectangle,vertical,B,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K37,K37,37,11,ML,MIDDLE_LOWER,rectangle,vertical,B,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K39,K39,39,11,ML,MIDDLE_LOWER,rectangle,vertical,B,6,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,I40,I40,40,9,ML,MIDDLE_LOWER,rectangle,vertical,END_END,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H15,H15,15,8,MU,MIDDLE_UPPER,rectangle,vertical,A,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H17,H17,17,8,MU,MIDDLE_UPPER,rectangle,vertical,A,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H19,H19,19,8,MU,MIDDLE_UPPER,rectangle,vertical,A,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H21,H21,21,8,MU,MIDDLE_UPPER,rectangle,vertical,A,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H23,H23,23,8,MU,MIDDLE_UPPER,rectangle,vertical,A,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H25,H25,25,8,MU,MIDDLE_UPPER,rectangle,vertical,A,6,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,H27,H27,27,8,MU,MIDDLE_UPPER,rectangle,vertical,A,7,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K15,K15,15,11,MU,MIDDLE_UPPER,rectangle,vertical,B,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K17,K17,17,11,MU,MIDDLE_UPPER,rectangle,vertical,B,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K19,K19,19,11,MU,MIDDLE_UPPER,rectangle,vertical,B,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K21,K21,21,11,MU,MIDDLE_UPPER,rectangle,vertical,B,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K23,K23,23,11,MU,MIDDLE_UPPER,rectangle,vertical,B,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K25,K25,25,11,MU,MIDDLE_UPPER,rectangle,vertical,B,6,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,K27,K27,27,11,MU,MIDDLE_UPPER,rectangle,vertical,B,7,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,I14,I14,14,9,MU,MIDDLE_UPPER,rectangle,vertical,START_END,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M33,M33,33,13,RL,RIGHT_LOWER,rectangle,vertical,A,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M35,M35,35,13,RL,RIGHT_LOWER,rectangle,vertical,A,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M37,M37,37,13,RL,RIGHT_LOWER,rectangle,vertical,A,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M39,M39,39,13,RL,RIGHT_LOWER,rectangle,vertical,A,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M41,M41,41,13,RL,RIGHT_LOWER,rectangle,vertical,A,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M43,M43,43,13,RL,RIGHT_LOWER,rectangle,vertical,A,6,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M45,M45,45,13,RL,RIGHT_LOWER,rectangle,vertical,A,7,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M47,M47,47,13,RL,RIGHT_LOWER,rectangle,vertical,A,8,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O33,O33,33,15,RL,RIGHT_LOWER,rectangle,vertical,B,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O35,O35,35,15,RL,RIGHT_LOWER,rectangle,vertical,B,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O37,O37,37,15,RL,RIGHT_LOWER,rectangle,vertical,B,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O39,O39,39,15,RL,RIGHT_LOWER,rectangle,vertical,B,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O41,O41,41,15,RL,RIGHT_LOWER,rectangle,vertical,B,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O43,O43,43,15,RL,RIGHT_LOWER,rectangle,vertical,B,6,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O45,O45,45,15,RL,RIGHT_LOWER,rectangle,vertical,B,7,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O47,O47,47,15,RL,RIGHT_LOWER,rectangle,vertical,B,8,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,N48,N48,48,14,RL,RIGHT_LOWER,rectangle,vertical,END_END,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M15,M15,15,13,RU,RIGHT_UPPER,rectangle,vertical,A,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M17,M17,17,13,RU,RIGHT_UPPER,rectangle,vertical,A,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M21,M21,21,13,RU,RIGHT_UPPER,rectangle,vertical,A,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M23,M23,23,13,RU,RIGHT_UPPER,rectangle,vertical,A,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,M25,M25,25,13,RU,RIGHT_UPPER,rectangle,vertical,A,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O15,O15,15,15,RU,RIGHT_UPPER,rectangle,vertical,B,1,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O17,O17,17,15,RU,RIGHT_UPPER,rectangle,vertical,B,2,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O21,O21,21,15,RU,RIGHT_UPPER,rectangle,vertical,B,3,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O23,O23,23,15,RU,RIGHT_UPPER,rectangle,vertical,B,4,0,,,,Hall Table Plan X 110 - Gathering.xls
+hall_110,O25,O25,25,15,RU,RIGHT_UPPER,rectangle,vertical,B,5,0,,,,Hall Table Plan X 110 - Gathering.xls
+combination_60,C24,C24,24,3,OCT1,OCTAGON_MIDDLE,cycle,cycle,CYCLE,1,0,,,,Combination Room table plan 60.xls
+combination_60,E25,E25,25,5,OCT1,OCTAGON_MIDDLE,cycle,cycle,CYCLE,2,0,,,,Combination Room table plan 60.xls
+combination_60,E27,E27,27,5,OCT1,OCTAGON_MIDDLE,cycle,cycle,CYCLE,3,0,,,,Combination Room table plan 60.xls
+combination_60,E29,E29,29,5,OCT1,OCTAGON_MIDDLE,cycle,cycle,CYCLE,4,0,,,,Combination Room table plan 60.xls
+combination_60,C30,C30,30,3,OCT1,OCTAGON_MIDDLE,cycle,cycle,CYCLE,5,0,,,,Combination Room table plan 60.xls
+combination_60,B29,B29,29,2,OCT1,OCTAGON_MIDDLE,cycle,cycle,CYCLE,6,0,,,,Combination Room table plan 60.xls
+combination_60,B27,B27,27,2,OCT1,OCTAGON_MIDDLE,cycle,cycle,CYCLE,7,0,,,,Combination Room table plan 60.xls
+combination_60,B25,B25,25,2,OCT1,OCTAGON_MIDDLE,cycle,cycle,CYCLE,8,0,,,,Combination Room table plan 60.xls
+combination_60,C32,C32,32,3,OCT2,OCTAGON_LOWER,cycle,cycle,CYCLE,1,0,,,,Combination Room table plan 60.xls
+combination_60,E33,E33,33,5,OCT2,OCTAGON_LOWER,cycle,cycle,CYCLE,2,0,,,,Combination Room table plan 60.xls
+combination_60,E35,E35,35,5,OCT2,OCTAGON_LOWER,cycle,cycle,CYCLE,3,0,,,,Combination Room table plan 60.xls
+combination_60,E37,E37,37,5,OCT2,OCTAGON_LOWER,cycle,cycle,CYCLE,4,0,,,,Combination Room table plan 60.xls
+combination_60,C38,C38,38,3,OCT2,OCTAGON_LOWER,cycle,cycle,CYCLE,5,0,,,,Combination Room table plan 60.xls
+combination_60,B37,B37,37,2,OCT2,OCTAGON_LOWER,cycle,cycle,CYCLE,6,0,,,,Combination Room table plan 60.xls
+combination_60,B35,B35,35,2,OCT2,OCTAGON_LOWER,cycle,cycle,CYCLE,7,0,,,,Combination Room table plan 60.xls
+combination_60,B33,B33,33,2,OCT2,OCTAGON_LOWER,cycle,cycle,CYCLE,8,0,,,,Combination Room table plan 60.xls
+combination_60,G21,G21,21,7,RIGHT,RIGHT_TABLE,rectangle,vertical,A,1,0,,,,Combination Room table plan 60.xls
+combination_60,G23,G23,23,7,RIGHT,RIGHT_TABLE,rectangle,vertical,A,2,0,,,,Combination Room table plan 60.xls
+combination_60,G25,G25,25,7,RIGHT,RIGHT_TABLE,rectangle,vertical,A,3,0,,,,Combination Room table plan 60.xls
+combination_60,G27,G27,27,7,RIGHT,RIGHT_TABLE,rectangle,vertical,A,4,0,,,,Combination Room table plan 60.xls
+combination_60,G29,G29,29,7,RIGHT,RIGHT_TABLE,rectangle,vertical,A,5,0,,,,Combination Room table plan 60.xls
+combination_60,G31,G31,31,7,RIGHT,RIGHT_TABLE,rectangle,vertical,A,6,0,,,,Combination Room table plan 60.xls
+combination_60,G33,G33,33,7,RIGHT,RIGHT_TABLE,rectangle,vertical,A,7,0,,,,Combination Room table plan 60.xls
+combination_60,G35,G35,35,7,RIGHT,RIGHT_TABLE,rectangle,vertical,A,8,0,,,,Combination Room table plan 60.xls
+combination_60,G37,G37,37,7,RIGHT,RIGHT_TABLE,rectangle,vertical,A,9,0,,,,Combination Room table plan 60.xls
+combination_60,I21,I21,21,9,RIGHT,RIGHT_TABLE,rectangle,vertical,B,1,0,,,,Combination Room table plan 60.xls
+combination_60,I23,I23,23,9,RIGHT,RIGHT_TABLE,rectangle,vertical,B,2,0,,,,Combination Room table plan 60.xls
+combination_60,I25,I25,25,9,RIGHT,RIGHT_TABLE,rectangle,vertical,B,3,0,,,,Combination Room table plan 60.xls
+combination_60,I27,I27,27,9,RIGHT,RIGHT_TABLE,rectangle,vertical,B,4,0,,,,Combination Room table plan 60.xls
+combination_60,I29,I29,29,9,RIGHT,RIGHT_TABLE,rectangle,vertical,B,5,0,,,,Combination Room table plan 60.xls
+combination_60,I31,I31,31,9,RIGHT,RIGHT_TABLE,rectangle,vertical,B,6,0,,,,Combination Room table plan 60.xls
+combination_60,I33,I33,33,9,RIGHT,RIGHT_TABLE,rectangle,vertical,B,7,0,,,,Combination Room table plan 60.xls
+combination_60,I35,I35,35,9,RIGHT,RIGHT_TABLE,rectangle,vertical,B,8,0,,,,Combination Room table plan 60.xls
+combination_60,I37,I37,37,9,RIGHT,RIGHT_TABLE,rectangle,vertical,B,9,0,,,,Combination Room table plan 60.xls
+combination_60,H39,H39,39,8,RIGHT,RIGHT_TABLE,rectangle,vertical,END_END,1,0,,,,Combination Room table plan 60.xls
+combination_60,H19,H19,19,8,RIGHT,RIGHT_TABLE,rectangle,vertical,START_END,1,0,,,,Combination Room table plan 60.xls
+combination_60,B15,B15,15,2,ROUND,ROUND_TABLE,cycle,cycle,CYCLE,1,0,,,,Combination Room table plan 60.xls
+combination_60,D17,D17,17,4,ROUND,ROUND_TABLE,cycle,cycle,CYCLE,2,0,,,,Combination Room table plan 60.xls
+combination_60,D19,D19,19,4,ROUND,ROUND_TABLE,cycle,cycle,CYCLE,3,0,,,,Combination Room table plan 60.xls
+combination_60,D21,D21,21,4,ROUND,ROUND_TABLE,cycle,cycle,CYCLE,4,0,,,,Combination Room table plan 60.xls
+combination_60,B22,B22,22,2,ROUND,ROUND_TABLE,cycle,cycle,CYCLE,5,0,,,,Combination Room table plan 60.xls
+combination_60,A21,A21,21,1,ROUND,ROUND_TABLE,cycle,cycle,CYCLE,6,0,,,,Combination Room table plan 60.xls
+combination_60,A19,A19,19,1,ROUND,ROUND_TABLE,cycle,cycle,CYCLE,7,0,,,,Combination Room table plan 60.xls
+combination_60,A17,A17,17,1,ROUND,ROUND_TABLE,cycle,cycle,CYCLE,8,0,,,,Combination Room table plan 60.xls
+combination_60,C7,C7,7,3,TOP,TOP_TABLE,rectangle,horizontal,A,1,0,,,,Combination Room table plan 60.xls
+combination_60,D7,D7,7,4,TOP,TOP_TABLE,rectangle,horizontal,A,2,0,,,,Combination Room table plan 60.xls
+combination_60,E7,E7,7,5,TOP,TOP_TABLE,rectangle,horizontal,A,3,0,,,,Combination Room table plan 60.xls
+combination_60,F7,F7,7,6,TOP,TOP_TABLE,rectangle,horizontal,A,4,0,,,,Combination Room table plan 60.xls
+combination_60,G7,G7,7,7,TOP,TOP_TABLE,rectangle,horizontal,A,5,0,,,,Combination Room table plan 60.xls
+combination_60,H7,H7,7,8,TOP,TOP_TABLE,rectangle,horizontal,A,6,0,,,,Combination Room table plan 60.xls
+combination_60,C13,C13,13,3,TOP,TOP_TABLE,rectangle,horizontal,B,1,0,,,,Combination Room table plan 60.xls
+combination_60,D13,D13,13,4,TOP,TOP_TABLE,rectangle,horizontal,B,2,0,,,,Combination Room table plan 60.xls
+combination_60,E13,E13,13,5,TOP,TOP_TABLE,rectangle,horizontal,B,3,0,,,,Combination Room table plan 60.xls
+combination_60,F13,F13,13,6,TOP,TOP_TABLE,rectangle,horizontal,B,4,0,,,,Combination Room table plan 60.xls
+combination_60,G13,G13,13,7,TOP,TOP_TABLE,rectangle,horizontal,B,5,0,,,,Combination Room table plan 60.xls
+combination_60,H13,H13,13,8,TOP,TOP_TABLE,rectangle,horizontal,B,6,0,,,,Combination Room table plan 60.xls
+combination_60,I9,I9,9,9,TOP,TOP_TABLE,rectangle,horizontal,END_END,1,0,,,,Combination Room table plan 60.xls
+combination_60,I11,I11,11,9,TOP,TOP_TABLE,rectangle,horizontal,END_END,2,0,,,,Combination Room table plan 60.xls
+combination_60,B9,B9,9,2,TOP,TOP_TABLE,rectangle,horizontal,START_END,1,0,,,,Combination Room table plan 60.xls
+combination_60,B11,B11,11,2,TOP,TOP_TABLE,rectangle,horizontal,START_END,2,0,,,,Combination Room table plan 60.xls
+upper_45,B26,B26,26,2,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,A,1,0,,,,Upper Hall - E x 45.xls
+upper_45,D26,D26,26,4,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,A,2,0,,,,Upper Hall - E x 45.xls
+upper_45,E26,E26,26,5,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,A,3,0,,,,Upper Hall - E x 45.xls
+upper_45,F26,F26,26,6,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,A,4,0,,,,Upper Hall - E x 45.xls
+upper_45,G26,G26,26,7,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,A,5,0,,,,Upper Hall - E x 45.xls
+upper_45,H26,H26,26,8,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,A,6,0,,,,Upper Hall - E x 45.xls
+upper_45,B31,B31,31,2,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,B,1,0,,,,Upper Hall - E x 45.xls
+upper_45,D31,D31,31,4,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,B,2,0,,,,Upper Hall - E x 45.xls
+upper_45,E31,E31,31,5,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,B,3,0,,,,Upper Hall - E x 45.xls
+upper_45,F31,F31,31,6,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,B,4,0,,,,Upper Hall - E x 45.xls
+upper_45,G31,G31,31,7,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,B,5,0,,,,Upper Hall - E x 45.xls
+upper_45,H31,H31,31,8,BOTTOM_BAR,BOTTOM_BAR,rectangle,horizontal,B,6,0,,,,Upper Hall - E x 45.xls
+upper_45,B18,B18,18,2,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,A,1,0,,,,Upper Hall - E x 45.xls
+upper_45,D18,D18,18,4,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,A,2,0,,,,Upper Hall - E x 45.xls
+upper_45,E18,E18,18,5,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,A,3,0,,,,Upper Hall - E x 45.xls
+upper_45,F18,F18,18,6,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,A,4,0,,,,Upper Hall - E x 45.xls
+upper_45,G18,G18,18,7,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,A,5,0,,,,Upper Hall - E x 45.xls
+upper_45,H18,H18,18,8,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,A,6,0,,,,Upper Hall - E x 45.xls
+upper_45,B23,B23,23,2,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,B,1,0,,,,Upper Hall - E x 45.xls
+upper_45,D23,D23,23,4,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,B,2,0,,,,Upper Hall - E x 45.xls
+upper_45,E23,E23,23,5,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,B,3,0,,,,Upper Hall - E x 45.xls
+upper_45,F23,F23,23,6,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,B,4,0,,,,Upper Hall - E x 45.xls
+upper_45,G23,G23,23,7,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,B,5,0,,,,Upper Hall - E x 45.xls
+upper_45,H23,H23,23,8,MIDDLE_BAR,MIDDLE_BAR,rectangle,horizontal,B,6,0,,,,Upper Hall - E x 45.xls
+upper_45,J15,J15,15,10,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,1,0,,,,Upper Hall - E x 45.xls
+upper_45,J18,J18,18,10,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,2,0,,,,Upper Hall - E x 45.xls
+upper_45,J23,J23,23,10,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,3,0,,,,Upper Hall - E x 45.xls
+upper_45,J26,J26,26,10,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,4,0,,,,Upper Hall - E x 45.xls
+upper_45,J28,J28,28,10,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,5,0,,,,Upper Hall - E x 45.xls
+upper_45,J30,J30,30,10,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,6,0,,,,Upper Hall - E x 45.xls
+upper_45,B10,B10,10,2,TOP_BAR,TOP_BAR,rectangle,horizontal,A,1,0,,,,Upper Hall - E x 45.xls
+upper_45,D10,D10,10,4,TOP_BAR,TOP_BAR,rectangle,horizontal,A,2,0,,,,Upper Hall - E x 45.xls
+upper_45,E10,E10,10,5,TOP_BAR,TOP_BAR,rectangle,horizontal,A,3,0,,,,Upper Hall - E x 45.xls
+upper_45,F10,F10,10,6,TOP_BAR,TOP_BAR,rectangle,horizontal,A,4,0,,,,Upper Hall - E x 45.xls
+upper_45,G10,G10,10,7,TOP_BAR,TOP_BAR,rectangle,horizontal,A,5,0,,,,Upper Hall - E x 45.xls
+upper_45,H10,H10,10,8,TOP_BAR,TOP_BAR,rectangle,horizontal,A,6,0,,,,Upper Hall - E x 45.xls
+upper_45,I10,I10,10,9,TOP_BAR,TOP_BAR,rectangle,horizontal,A,7,0,,,,Upper Hall - E x 45.xls
+upper_45,B15,B15,15,2,TOP_BAR,TOP_BAR,rectangle,horizontal,B,1,0,,,,Upper Hall - E x 45.xls
+upper_45,D15,D15,15,4,TOP_BAR,TOP_BAR,rectangle,horizontal,B,2,0,,,,Upper Hall - E x 45.xls
+upper_45,E15,E15,15,5,TOP_BAR,TOP_BAR,rectangle,horizontal,B,3,0,,,,Upper Hall - E x 45.xls
+upper_45,F15,F15,15,6,TOP_BAR,TOP_BAR,rectangle,horizontal,B,4,0,,,,Upper Hall - E x 45.xls
+upper_45,G15,G15,15,7,TOP_BAR,TOP_BAR,rectangle,horizontal,B,5,0,,,,Upper Hall - E x 45.xls
+upper_45,H15,H15,15,8,TOP_BAR,TOP_BAR,rectangle,horizontal,B,6,0,,,,Upper Hall - E x 45.xls
+upper_45,J11,J11,11,10,TOP_BAR,TOP_BAR,rectangle,horizontal,END_END,1,0,,,,Upper Hall - E x 45.xls
+upper_45,J13,J13,13,10,TOP_BAR,TOP_BAR,rectangle,horizontal,END_END,2,0,,,,Upper Hall - E x 45.xls
+upper_45,H16,H16,16,8,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,7,0,,,,Upper Hall - E x 45.xls (manual extension)
+upper_45,H17,H17,17,8,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,8,0,,,,Upper Hall - E x 45.xls (manual extension)
+upper_45,H24,H24,24,8,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,9,0,,,,Upper Hall - E x 45.xls (manual extension)
+upper_45,H25,H25,25,8,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,10,0,,,,Upper Hall - E x 45.xls (manual extension)
+upper_45,I31,I31,31,9,RIGHT_VERTICAL,RIGHT_VERTICAL,line,vertical,LINE,11,0,,,,Upper Hall - E x 45.xls (manual extension)
